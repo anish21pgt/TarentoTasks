@@ -1,0 +1,9 @@
+Shortcut			Action
+
+Ctrl + 3			It puts the focus into Quick Access search box.
+Ctrl + S			Save current editor
+Ctrl + 1			Quickfix for errors and warnings, depends on the cursor position
+Ctrl + Space		Content assist and code completion
+Ctrl + Shift + F		Format source code
+Ctrl + Q			Moves cursor to the last edited position
+Ctrl + D			Deletes current line in the editor
